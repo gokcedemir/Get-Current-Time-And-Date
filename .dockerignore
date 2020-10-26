@@ -1,0 +1,7 @@
+# comment
+*.md
+!README.md
+Dockerfile
+*/temp*
+*/*/temp*
+temp?
